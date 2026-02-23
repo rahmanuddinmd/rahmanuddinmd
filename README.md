@@ -1,5 +1,5 @@
 # 🌍 MD Rahmanuddin’s Tech Space 🚀  
-**🐧 Linux | 🐳 Docker | ☁️ AWS | 🔧 DevOps | 🐍 Python | 🤖 AI & ML | 📐 CAD | 🛠️ CATIA V5**
+**🐧 Linux | 🐳 Docker | ☁️ AWS | 🔧 DevOps | 🐍 Python | 🤖 AI & ML | 📐 CAD | 🛠️ CATIA V5 | 🌐 IoT**
 
 💡 Learning by building real systems, breaking them, fixing them, and engineering better solutions.
 
@@ -7,11 +7,29 @@
 
 ## 👨‍💻 About Me
 
-I’m MD Rahmanuddin, an engineer and practical tech builder with experience in DevOps, Python, AI/ML, and CAD design. I learn by doing. I prefer building real systems, debugging them, and understanding how they behave in real environments.
+I’m MD Rahmanuddin, an engineer and practical tech builder with experience in DevOps, Python, AI/ML, CAD design, and IoT systems.
 
-I’ve worked on containerized applications, deployed services on AWS, designed mechanical components in CATIA V5, and integrated machine learning models into production-style APIs. My approach is hands-on rather than theory-heavy, and I enjoy solving problems end to end.
+I bring **6.5+ years of professional experience in CAD & CATIA V5**, working on mechanical and automotive component design, surface modeling, and production-ready drawings.
 
-Whether it’s automating workflows with Python, deploying scalable services, or optimizing engineering designs, I focus on real implementation and measurable improvement.
+Alongside engineering design, I actively build and deploy software systems, automate workflows with Python, integrate ML models into APIs, and develop IoT-based solutions.
+
+My approach is hands-on, problem-driven, and focused on real-world implementation.
+
+---
+
+## 💼 Professional Experience
+
+### 📐 CAD & CATIA V5 Engineer (6.5+ Years)
+
+- 6.5+ years of experience in automotive and mechanical design  
+- Expertise in part, assembly, and surface modeling  
+- Automotive trim and interior component design  
+- GD&T and tolerance stack-up analysis  
+- Parametric and standards-based modeling  
+- Design documentation and drawing release  
+- Collaboration with manufacturing and quality teams  
+
+**Tools:** CATIA V5 · CAD · PLM · Engineering Standards  
 
 ---
 
@@ -19,58 +37,57 @@ Whether it’s automating workflows with Python, deploying scalable services, or
 
 ### 🔹 Multi-Container Flask Deployment
 
-Built a distributed web application using Docker and Docker Compose:
-
-- Multiple backend containers  
-- Gunicorn for production serving  
-- Nginx as reverse proxy and load balancer  
+- Built distributed web application with Docker and Docker Compose  
+- Implemented Gunicorn and Nginx for production serving  
 - Deployed and tested on AWS EC2  
-- Debugged container crashes, port conflicts, networking issues, and dependency problems  
+- Solved container, network, and deployment issues  
 
-**Tech Stack:** Docker · Flask · Gunicorn · Nginx · AWS · Linux · Python  
+**Tech:** Docker · Flask · Gunicorn · Nginx · AWS · Linux · Python  
 
 ---
 
 ### 🔹 Machine Learning Model API Service
 
-Developed a production-style ML service:
+- Developed ML models with preprocessing pipelines  
+- Created Flask-based inference APIs  
+- Containerized ML services  
+- Evaluated model performance and generalization  
 
-- Trained supervised learning models on structured datasets  
-- Implemented data preprocessing and feature engineering  
-- Exposed model inference through Flask APIs  
-- Containerized the service using Docker  
-- Analyzed model performance and overfitting behavior  
-
-**Tech Stack:** Python · Scikit-learn · Pandas · NumPy · Flask · Docker  
+**Tech:** Python · Scikit-learn · Pandas · NumPy · Flask · Docker  
 
 ---
 
-### 🔹 CAD Design & Automation
+### 🔹 CAD Design & Automation Projects
 
-Worked on mechanical and automotive component development using CATIA V5:
-
-- 3D part and assembly modeling  
-- Surface modeling and trim design  
-- GD&T and tolerance analysis  
-- Parametric design techniques  
-- Python-based automation for repetitive CAD tasks  
+- Developed parametric automotive components  
+- Automated repetitive modeling tasks using Python  
+- Generated drawings from 3D models  
+- Improved design turnaround time  
 
 **Tools:** CATIA V5 · CAD · Python Automation  
 
 ---
 
+### 🔹 IoT Monitoring & Automation Projects 🌐
+
+- Designed sensor-based monitoring systems  
+- Integrated microcontrollers with cloud platforms  
+- Built data pipelines for real-time monitoring  
+- Developed dashboards for visualization  
+- Implemented alert and control mechanisms  
+
+**Tech:** Arduino / ESP32 · Sensors · Python · MQTT · Cloud APIs  
+
+---
+
 ## 🤖 AI & Machine Learning Experience
 
-My focus in AI/ML is practical application rather than just experimentation.
-
-- Data handling and preprocessing using Pandas and NumPy  
-- Supervised learning model training and evaluation  
-- Understanding overfitting, bias-variance tradeoffs, and model generalization  
-- Converting ML models into API services  
-- Containerizing ML applications for reproducibility  
-- Studying how models behave in real deployment environments  
-
-I aim to bridge the gap between ML development and production systems.
+- Data preprocessing and feature engineering  
+- Supervised learning model training  
+- Model evaluation and optimization  
+- Flask-based ML APIs  
+- Dockerized ML deployment  
+- Performance and reliability analysis  
 
 ---
 
@@ -85,18 +102,18 @@ Python · Flask · Automation Scripting
 **AI/ML**  
 NumPy · Pandas · Scikit-learn  
 
-**Engineering Design**  
-CAD · CATIA V5 · Surface Modeling · Automotive Design  
+**Engineering & IoT**  
+CATIA V5 · CAD · Arduino · ESP32 · Sensors · MQTT  
 
 ---
 
 ## 🎯 Current Focus
 
-- CI/CD fundamentals  
-- Kubernetes basics  
-- Monitoring & logging systems  
-- MLOps practices  
-- CAD design automation at scale  
+- CI/CD Pipelines  
+- Kubernetes  
+- Monitoring & Observability  
+- MLOps  
+- Smart Manufacturing & Industry 4.0  
 
 ---
 
@@ -113,4 +130,4 @@ GitHub: https://github.com/rahmanuddinmd
 
 ---
 
-⭐ Learning DevOps, AI, and Engineering one bug and one design at a time.
+⭐ Learning Software, AI, and Engineering one system at a time.
