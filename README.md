@@ -1,7 +1,7 @@
 # 🌍 Rahman’s Tech Space 🚀  
-**🐧 Linux | 🐳 Docker | ☁️ AWS | 🔧 DevOps | 🤖 AI & ML (Practical Learner)**  
+**🐧 Linux | 🐳 Docker | ☁️ AWS | 🔧 DevOps | 🐍 Python | 🤖 AI & ML | 📐 CAD | 🛠️ CATIA V5 (Practical Engineer)**  
 
-💡 Learning by building real systems, breaking them, fixing them, and understanding how they behave.
+💡 Learning by building real systems, breaking them, fixing them, and engineering better solutions.
 
 ---
 
@@ -9,11 +9,14 @@
 
 - 🎓 Engineering Graduate  
 - 🔧 DevOps-focused hands-on learner  
+- 🐍 Python developer for automation & ML  
 - 🤖 Exploring AI & Machine Learning practically  
+- 📐 CAD Design Engineer (Automotive & Mechanical)  
+- 🛠️ CATIA V5 professional user  
 - 🐳 Experience with Docker & AWS deployments  
-- 🧠 Strong believer in learning by debugging  
+- 🧠 Strong believer in learning by debugging and designing  
 
-I focus on **real-world systems**, not just theory.
+I focus on **real-world systems and engineering**, not just theory.
 
 ---
 
@@ -28,14 +31,29 @@ I focus on **real-world systems**, not just theory.
 - ☁️ AWS EC2 & Networking  
 - 🐞 Debugging Production Issues  
 
+### 🐍 Python
+- 📜 Scripting & Automation  
+- 🛠️ CAD & System Automation  
+- 🌐 Backend Development (Flask)  
+- 📦 API Development  
+- 🧪 Testing & Debugging  
+
 ### 🤖 AI & Machine Learning
-- 🐍 Python for ML  
 - 📊 NumPy & Pandas  
 - 🧹 Data Preprocessing  
 - 📈 Supervised Learning  
 - 🎯 Model Training & Evaluation  
 - 🌐 Flask API for ML Models  
 - 📦 Dockerized ML Apps  
+
+### 📐 CAD & CATIA V5
+- ✏️ 2D Drafting & 3D Modeling  
+- 🧩 Part & Assembly Design  
+- 🚗 Automotive Trim Design  
+- 📏 GD&T & Tolerancing  
+- 🏗️ Surface Modeling  
+- 🔄 Design Automation with Python  
+- 📁 PLM & File Management  
 
 ---
 
@@ -50,7 +68,7 @@ I focus on **real-world systems**, not just theory.
 - 📊 Tested Load Balancing  
 - 🛠️ Fixed container & network issues  
 
-**Tech:** Docker, Flask, Gunicorn, Nginx, AWS, Linux  
+**Tech:** Docker, Flask, Gunicorn, Nginx, AWS, Linux, Python  
 
 ---
 
@@ -65,6 +83,18 @@ I focus on **real-world systems**, not just theory.
 
 ---
 
+### 🔹 CAD Automation & Design Projects 📐
+
+- 🛠️ Automated part creation using scripts  
+- 📄 Generated drawings from 3D models  
+- 🔄 Parametric design in CATIA V5  
+- 🚗 Automotive component development  
+- 📊 Design validation & optimization  
+
+**Tech:** CATIA V5, CAD, Python Automation  
+
+---
+
 ## 🛠️ Tech Stack 🧰
 
 - 🐧 Linux  
@@ -73,8 +103,10 @@ I focus on **real-world systems**, not just theory.
 - 🐍 Python  
 - 🌐 Flask  
 - 🔀 Nginx  
+- 🤖 Scikit-learn  
+- 📐 CAD  
+- 🛠️ CATIA V5  
 - 🌱 Git & GitHub  
-- 📊 NumPy, Pandas, Scikit-learn  
 
 ---
 
@@ -87,12 +119,25 @@ I focus on **real-world systems**, not just theory.
 - 🛠️ Server troubleshooting  
 - 🚀 Deployment issues  
 
+### 🐍 Python
+- ⚙️ Automation workflows  
+- 📦 API architecture  
+- 🧩 Error handling  
+- 🧪 Debugging techniques  
+
 ### 🤖 AI/ML
 - 📉 Overfitting  
 - 🧹 Data importance  
 - 🔄 Training vs Inference  
 - ⚡ Model performance  
 - 📦 Deployment challenges  
+
+### 📐 CAD & CATIA
+- 📏 Design standards  
+- 🧩 Assembly constraints  
+- 🏗️ Surface continuity  
+- 🚗 Automotive packaging  
+- 🔄 Parametric modeling  
 
 ---
 
@@ -102,7 +147,8 @@ I focus on **real-world systems**, not just theory.
 - ☸️ Kubernetes  
 - 📊 Monitoring & Logging  
 - 🤖 MLOps  
-- 🌍 Scalable ML Systems  
+- 🔄 CAD Automation at Scale  
+- 🌍 Digital Engineering Systems  
 
 ---
 
@@ -119,4 +165,4 @@ I focus on **real-world systems**, not just theory.
 
 ---
 
-⭐ Learning DevOps and AI one bug at a time 🚀
+⭐ Learning DevOps, Python, AI, and Engineering one bug and one design at a time 🚀
