@@ -10,7 +10,7 @@
 
 I'm MD Rahmanuddin, a Senior CAD Design Engineer with **8+ years of progressive experience** spanning automotive product design and AI-driven engineering automation.
 
-I bring **6.5+ years of OEM-level CAD & CATIA V5 delivery** for clients including **Volvo, Ford, and Grupo Antolin** — covering plastic trim design, A/B/C surfacing, and injection molding. Over the **last 1.5 years**, I've transitioned into **AI/ML engineering automation**, building end-to-end pipelines for Scan-to-CAD conversion, robotic path generation, and PDF-to-2D drawing automation.
+I bring **6 years of OEM-level CAD & CATIA V5 delivery** for clients including **Volvo, Ford, and Grupo Antolin** — covering plastic trim design, A/B/C surfacing, and injection molding. Over the **last 2 years**, I've transitioned into **AI/ML engineering automation**, building end-to-end pipelines for Scan-to-CAD conversion, robotic path generation, and PDF-to-2D drawing automation.
 
 Alongside engineering design, I actively build and deploy software systems, automate workflows with Python, integrate ML models into production pipelines, and work with robotics and computer vision. My approach is hands-on, problem-driven, and focused on real-world implementation — targeting roles in Engineering Automation, Digital Twin, Smart Manufacturing, and AI-powered CAD systems.
 
@@ -58,7 +58,7 @@ Alongside engineering design, I actively build and deploy software systems, auto
 
 ---
 
-## 🚀 Featured AI & Automation Projects (ASM Technologies, 1.5 Years)
+## 🚀 Featured AI & Automation Projects (ASM Technologies, 2 Years)
 
 ### 🔹 3D Vision System & Robotic Path Generation
 - Real-time pipeline converting 3D point cloud data (Cognex 3D vision) into robotic cutting paths
